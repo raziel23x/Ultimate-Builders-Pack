@@ -42,7 +42,7 @@
     },
     {
       "item": "minecraft:leather|0",
-      "emc": 32
+      "emc": 64
     },
     {
       "item": "minecraft:netherrack|0",
@@ -1267,6 +1267,226 @@
     {
       "item": "minecraft:dragon_breath|0",
       "emc": 65536
+    },
+    {
+      "item": "actuallyadditions:item_misc|17",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:itemjournal|0",
+      "emc": 48
+    },
+    {
+      "item": "extrautils2:redorchid|0",
+      "emc": 16
+    },
+    {
+      "item": "rustic:chili_pepper_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "rustic:wind_thistle|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:torch|0",
+      "emc": 16
+    },
+    {
+      "item": "car:canola_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "extratrees:hops|0",
+      "emc": 16
+    },
+    {
+      "item": "rustic:tomato_seeds|0",
+      "emc": 16
+    },
+    {
+      "item": "rustic:olives|0",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:clay|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 4
+    },
+    {
+      "item": "rustic:ginseng|0",
+      "emc": 2
+    },
+    {
+      "item": "rustic:wildberry_bush|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:wildberries|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:chamomile|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:horsetail|0",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:stone_stick|0",
+      "emc": 4
+    },
+    {
+      "item": "ic2:resource|2",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:oreblock|2",
+      "emc": 256
+    },
+    {
+      "item": "forestry:resources|2",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:ore|1",
+      "emc": 2048
+    },
+    {
+      "item": "techreborn:ore|13",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:ore|0",
+      "emc": 128
+    },
+    {
+      "item": "techreborn:ore|12",
+      "emc": 512
+    },
+    {
+      "item": "tconstruct:ore|1",
+      "emc": 2048
+    },
+    {
+      "item": "quark:basalt|0",
+      "emc": 1
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|0",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:oreblock|1",
+      "emc": 128
+    },
+    {
+      "item": "quark:root_flower|1",
+      "emc": 16
+    },
+    {
+      "item": "techreborn:ore2|1",
+      "emc": 256
+    },
+    {
+      "item": "techreborn:ore2|0",
+      "emc": 128
+    },
+    {
+      "item": "forestry:resources|1",
+      "emc": 128
+    },
+    {
+      "item": "quark:root|0",
+      "emc": 4
+    },
+    {
+      "item": "tconstruct:ore|0",
+      "emc": 2048
+    },
+    {
+      "item": "quark:black_ash|0",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 16
+    },
+    {
+      "item": "thaumcraft:salis_mundus|0",
+      "emc": 32
+    },
+    {
+      "item": "extrautils2:enderlilly|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 5120
+    },
+    {
+      "item": "minecraft:slime|0",
+      "emc": 288
+    },
+    {
+      "item": "rustic:aloe_vera|0",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber|0",
+      "emc": 3
+    },
+    {
+      "item": "industrialforegoing:dryrubber|0",
+      "emc": 32
+    },
+    {
+      "item": "extrautils2:angelring|0",
+      "emc": 5120
+    },
+    {
+      "item": "ic2:misc_resource|2",
+      "emc": 1821
+    },
+    {
+      "item": "quark:root_flower|2",
+      "emc": 32
+    },
+    {
+      "item": "botania:blacklotus|0",
+      "emc": 32
+    },
+    {
+      "item": "actuallyadditions:item_misc|20",
+      "emc": 32
+    },
+    {
+      "item": "enderio:item_broken_spawner|0",
+      "emc": 256
+    },
+    {
+      "item": "botania:manaresource|15",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagradditions:stuff|3",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:stone_slab|0",
+      "emc": 1
+    },
+    {
+      "item": "extrautils2:decorativesolid|4",
+      "emc": 1
     }
   ]
 }
