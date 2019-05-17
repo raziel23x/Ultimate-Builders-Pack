@@ -34,6 +34,30 @@ import mods.jei.JEI.removeAndHide as rh;
 	<ore:listAllwater>.add(<thermalexpansion:tank>.withTag({RSControl: 0 as byte, Creative: 0 as byte, Fluid: {FluidName: "water", Amount: 1000}, Level: 0 as byte, Lock: 0 as byte}));
 	<ore:listAllwater>.add(<ceramics:clay_bucket>.withTag({fluids: {FluidName: "water", Amount: 1000}}));
 
+
+val shulkerblocks = [
+<minecraft:cyan_shulker_box>,
+<minecraft:purple_shulker_box>,
+<minecraft:blue_shulker_box>,
+<minecraft:brown_shulker_box>,
+<minecraft:green_shulker_box>,
+<minecraft:red_shulker_box>,
+<minecraft:black_shulker_box>,
+<minecraft:white_shulker_box>,
+<minecraft:gray_shulker_box>,
+<minecraft:pink_shulker_box>,
+<minecraft:lime_shulker_box>,
+<minecraft:yellow_shulker_box>,
+<minecraft:light_blue_shulker_box>,
+<minecraft:magenta_shulker_box>,
+<minecraft:orange_shulker_box>,
+<minecraft:silver_shulker_box>
+] as IItemStack[];
+
+	for shulkerblock in shulkerblocks {
+		<ore:boxShulkerAny>.add(shulkerblock);
+	}
+
 #### REMOVE RECIPES ####
 # recipes.remove(<>);
 
@@ -61,6 +85,53 @@ import mods.jei.JEI.removeAndHide as rh;
 	<minecraft:ender_pearl>.maxStackSize = 64;
 
 #### ADD RECIPES    ####
+recipes.addShapeless(<minecraft:cyan_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeCyan>]);
+
+recipes.addShapeless(<minecraft:purple_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyePurple>]);
+
+recipes.addShapeless(<minecraft:blue_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeBlue>]);
+
+recipes.addShapeless(<minecraft:brown_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeBrown>]);
+
+recipes.addShapeless(<minecraft:green_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeGreen>]);
+
+recipes.addShapeless(<minecraft:red_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeRed>]);
+
+recipes.addShapeless(<minecraft:black_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeBlack>]);
+
+recipes.addShapeless(<minecraft:white_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeWhite>]);
+
+recipes.addShapeless(<minecraft:gray_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeGray>]);
+
+recipes.addShapeless(<minecraft:pink_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyePink>]);
+
+recipes.addShapeless(<minecraft:lime_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeLime>]);
+
+recipes.addShapeless(<minecraft:yellow_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeYellow>]);
+
+recipes.addShapeless(<minecraft:light_blue_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeLightBlue>]);
+
+recipes.addShapeless(<minecraft:magenta_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeMagenta>]);
+
+recipes.addShapeless(<minecraft:orange_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeOrange>]);
+
+recipes.addShapeless(<minecraft:silver_shulker_box>, 
+	[<ore:boxShulkerAny>,		<ore:dyeLightGray>]);
 
 # Add more metals to bucket recipe
 	recipes.addShaped(<minecraft:bucket> * 1, 

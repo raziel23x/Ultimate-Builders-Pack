@@ -1487,6 +1487,86 @@
     {
       "item": "extrautils2:decorativesolid|4",
       "emc": 1
+    },
+    {
+      "item": "aroma1997sdimension:miningmultitool|0",
+      "emc": 277
+    },
+    {
+      "item": "aroma1997sdimension:portalframe|0",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:stone_slab|5",
+      "emc": 1
+    },
+    {
+      "item": "aroma1997sdimension:portalframesphere|0",
+      "emc": 256
+    },
+    {
+      "item": "aroma1997sdimension:dimensionchanger|0",
+      "emc": 37141
+    },
+    {
+      "item": "tconstruct:seared|0",
+      "emc": 40
+    },
+    {
+      "item": "mekanism:dust|0",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:dust|1",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:dust|2",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dust|3",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:dust|4",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:dust|5",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dust|6",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:nugget|2",
+      "emc": 17
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 4096
+    },
+    {
+      "item": "tconstruct:ingots|4",
+      "emc": 512
+    },
+    {
+      "item": "tconstruct:materials|1",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:materials|14",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:stone_slab|3",
+      "emc": 1
+    },
+    {
+      "item": "rustic:grape_stem|0",
+      "emc": 16
     }
   ]
 }

@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2816",
+        "id": "forge-14.23.5.2832",
         "primary": true
       }
     ]
@@ -126,7 +126,7 @@
     },
     {
       "projectID": 250363,
-      "fileID": 2704893,
+      "fileID": 2711582,
       "required": true
     },
     {
@@ -371,7 +371,7 @@
     },
     {
       "projectID": 229380,
-      "fileID": 2601022,
+      "fileID": 2691315,
       "required": true
     },
     {
@@ -736,7 +736,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 2708706,
+      "fileID": 2711580,
       "required": true
     },
     {
@@ -841,7 +841,7 @@
     },
     {
       "projectID": 311378,
-      "fileID": 2703334,
+      "fileID": 2711463,
       "required": true
     },
     {
